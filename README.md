@@ -4,17 +4,15 @@
 
 A simple Todo app that allows addition and removal of tasks.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Running
+
+Install dependencies:
+
+`yarn` OR `npm install`
 
 To run the dev server:
 
-```
-yarn run dev
-```
+`yarn run dev` OR `npm run dev`
 
 ## Included
 
